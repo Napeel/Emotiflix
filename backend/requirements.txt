@@ -1,0 +1,11 @@
+# Web Framework
+fastapi
+uvicorn
+
+# Database
+sqlalchemy
+alembic
+
+# Utils
+python-dotenv
+requests
